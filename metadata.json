@@ -1,0 +1,6 @@
+{
+  "name": "Multi-App Workbench",
+  "description": "An interactive, multi-purpose RAG-enabled training base and audit workbench with ChatGPT-style conversation history, persistent memories, smart document and image context grounding, and live ABAP code syntax evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
